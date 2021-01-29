@@ -9,4 +9,5 @@ This solution has been built for for explaining all the concepts in this course.
 
 > You can find in [here](_docs/api.md) the documentation of the APIs.
 
-This is a update of this file by victor
+This is a update of this file by victor.
+I have updated twice this file practicing Git
