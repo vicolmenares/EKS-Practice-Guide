@@ -1,0 +1,5 @@
+image:
+  repository: 228337145033.dkr.ecr.us-east-2.amazonaws.com/bookstore.clients-api
+
+aspnet:
+  environment: Production
